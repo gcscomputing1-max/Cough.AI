@@ -1,0 +1,14 @@
+{
+  "name": "Cough.AI ",
+  "short_name": "CoughAI",
+  "description": "Production-grade AI respiratory health diagnostic platform.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#020617",
+  "theme_color": "#6366f1",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation",
+    "camera"
+  ]
+}
